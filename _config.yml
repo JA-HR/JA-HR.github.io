@@ -73,7 +73,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Vital Sings Vision(INDAUTOR 03-2024-092709223000-01)
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -84,9 +84,11 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Me encargué del diseño de la redes neuronales para el reconocimiento de los patrones de un latido cardiaco y la detección de un paro cardíaco, además del desarrollo del sistema de endpoints y de las comunicaciones entre los servidores e interfaces de usuarios.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Un software especializado para la detección temprana de paros cardíacos, utilizando algoritmos de 
+          análisis de señales biomédicas y técnicas de machine learning para identificar patrones anormales 
+          en tiempo real
     
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -102,14 +104,15 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Diseñe un software personalizado para la gestión administrativa del personal, mejorando la eficiencia operativa en un 60%
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Un software a medida para la gestión administrativa del personal, diseñado para optimizar y automatizar procesos clave en la administración de recursos humanos. Esta solución ha logrado mejorar la eficiencia operativa en un 60%, facilitando la organización de datos, el control de asistencia, la gestión de permisos y la generación de reportes en tiempo real.
+          Este software no solo ha agilizado los procesos de administración de personal, sino que ha permitido a los gestores tomar decisiones informadas, reduciendo los tiempos operativos y aumentando la productividad en general.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Webcrawler con Reconocimiento Facial
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -120,14 +123,14 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Supervise el desarrollo del proyecto y aporte sugerencias sobre las tecnologías y lenguajes a usar, mas aparte diseñe el código para reconocimiento facial 
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-    
+          Este proyecto consiste en un webcrawler desarrollado en Python, diseñado para realizar búsquedas de personas en Internet mediante la comparación de imágenes. Al ingresar el nombre de una persona, el webcrawler utiliza Google para localizar imágenes asociadas a ese nombre y luego las compara con una imagen de referencia proporcionada. Las coincidencias encontradas se separan de las imágenes no relacionadas, permitiendo una búsqueda más precisa y eficiente.
+          Este sistema puede utilizarse en diversas aplicaciones, desde la búsqueda de información sobre una persona específica en redes sociales hasta la automatización de análisis de imágenes para investigaciones. Su arquitectura modular permite adaptaciones para mejorar la precisión y añadir funcionalidades adicionales, como análisis de metadatos o filtros de contenido.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Monitoreo de Abejas
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -138,58 +141,99 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Lidere el desarrollo del proyecto y diseñe los algoritmos de cómputo regresivo 
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Este proyecto consiste en un panel de control inteligente, desarrollado con Flask y C++, diseñado para proteger a las abejas utilizadas en la polinización dentro de invernaderos. El sistema monitorea y predice la temperatura y humedad del ambiente controlado, previniendo cambios drásticos que podrían poner en riesgo la vida de las abejas debido a condiciones extremas.
+          Este sistema es una herramienta crucial para apicultores que dependen de abejas para la polinización en ambientes controlados. Con su capacidad predictiva y monitoreo constante, ayuda a mantener condiciones seguras para las abejas, optimizando la productividad y reduciendo el riesgo de mortalidad por condiciones ambientales desfavorables.
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
+        title: Secretaría de Educación Pública
+        sub_title: Desarrollador de software
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
+          Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Desarrollé y lideré la creación de un software personalizado para la gestión administrativa del personal, mejorando la eficiencia operativa en un 60%
+          Tengo experiencia laboral en el diseño y desarrollo de soluciones de software administrativo, orientadas a optimizar y automatizar procesos internos en entornos empresariales. He trabajado en la creación de herramientas que facilitan la gestión de datos, el control de inventarios, la generación de informes financieros y el seguimiento de procesos operativos, mejorando la eficiencia y reduciendo el tiempo de ejecución de tareas administrativas.
+          Esta experiencia me ha permitido desarrollar un enfoque orientado a las necesidades del usuario, garantizando soluciones personalizadas que mejoran la productividad y la organización en las operaciones diarias empresariales.
           
       - layout: right
-        title: Company name
-        sub_title: Job title
+        title: Secretaría de Educación Pública
+        sub_title: administrativo
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
+          Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Gestioné de manera eficiente la administración de archivos y datos, asegurando la correcta organización, almacenamiento y recuperación de información en sistemas tanto locales como en la nube.
+          Implementé políticas de seguridad y respaldo de datos, garantizando la protección y disponibilidad de la información crítica de la empresa.
+          Realicé el mantenimiento preventivo y correctivo de equipos computacionales, incluyendo la reparación de hardware, instalación de software y configuración de redes internas.
+          Diagnostiqué y resolví problemas técnicos, minimizando el tiempo de inactividad de los sistemas y mejorando la productividad del equipo.
           
       - layout: right
-        title: Company name
-        sub_title: Job title
+        title: Secretaría de Educación Pública
+        sub_title: Profesor
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
+          Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          He trabajado como profesor de computación, tecnologías y matemáticas básicas en la Secretaría de Educación Pública, impartiendo clases a distintos niveles educativos. Mi enfoque se centra en hacer accesibles y comprensibles temas clave en tecnología y matemáticas, fomentando en los estudiantes habilidades prácticas y pensamiento lógico para que puedan aplicarlos en su vida diaria y futura.
+          Esta experiencia docente me ha permitido desarrollar habilidades de comunicación efectiva y métodos de enseñanza adaptativos, logrando que los estudiantes adquieran habilidades esenciales en áreas fundamentales del conocimiento.
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: universidad de guadalajara
+        sub_title: (COMPUTACION)
+        caption: (2020 - present)
         quote: >
-          Short institution or course description (optional)
+          La Ingeniería en Computación es una disciplina que combina conocimientos de ingeniería y ciencias de la computación para diseñar, desarrollar e implementar sistemas y soluciones tecnológicas avanzadas. Esta carrera forma profesionales capaces de trabajar en diversas áreas, desde el desarrollo de software y la arquitectura de hardware hasta la inteligencia artificial y la gestión de redes y sistemas.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Puedo desempeñarme en el desarrollo de software, administración de bases de datos, análisis de datos, inteligencia artificial, ciberseguridad, redes y telecomunicaciones, investigación, y más. Son profesionales esenciales en empresas de tecnología, instituciones financieras, organismos de gobierno, y centros de investigación, entre otros sectores.
+          Esta carrera no solo impulsa la innovación tecnológica, sino que también permite la creación de herramientas y soluciones que impactan directamente en la sociedad. Los ingenieros en computación juegan un papel crucial en la transformación digital, contribuyendo al desarrollo de tecnologías que mejoran la eficiencia, seguridad y accesibilidad de servicios.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      HABILIDADES...
+        - Liderazgo
+        - Comunicación asertiva
+        - Gestión de activos
+        - Resolución de problemas
+        - Elaboración de reportes
+        - Trabajo en equipo
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Habilidades Técnicas (Computación y Desarrollo)...
+        - Programación en Python y C++: Dominio en la creación de soluciones de software en estos lenguajes.
+        - Desarrollo Web con Flask: Creación de aplicaciones web y paneles de control interactivos.
+        - Reconocimiento Facial: Implementación de algoritmos para reconocimiento facial y procesamiento de imágenes.
+        - Web Scraping: Experiencia en recolección de datos web mediante herramientas como BeautifulSoup y Selenium.
+        - Bases de Datos: Diseño y administración de bases de datos SQL para la gestión de datos empresariales.
+        - Algoritmos de Machine Learning y Regresión: Aplicación de algoritmos para predicciones en datos de temperatura y humedad.
+        - Automatización de Procesos: Creación de scripts y herramientas para automatizar tareas administrativas.
+        - Control de Versiones con Git: Manejo de código fuente y colaboración en proyectos a través de Git.
+
+      Habilidades en Desarrollo de Software Administrativo...
+        - Gestión de Recursos Humanos: Desarrollo de software para optimizar la administración de personal, incluyendo control de asistencia y permisos.
+        - Generación de Reportes Dinámicos: Creación de reportes detallados y gráficos interactivos para análisis en tiempo real.
+        - Interfaces de Usuario (UI): Diseño de interfaces intuitivas para mejorar la experiencia del usuario.
+        - Optimización de Eficiencia Operativa: Implementación de soluciones de software que mejoran la eficiencia en hasta un 60%.
+        - Adaptación y Escalabilidad de Software: Creación de sistemas personalizados y escalables según las necesidades de cada organización.
+
+      Habilidades de Enseñanza y Comunicación...
+        - Docencia en Computación y Matemáticas Básicas: Experiencia en la enseñanza de informática y matemáticas en el sector educativo público.
+        - Alfabetización Digital: Capacitación en el uso de herramientas tecnológicas para estudiantes de diversos niveles.
+        - Desarrollo de Pensamiento Lógico y Resolución de Problemas: Fomento de habilidades lógicas y analíticas en estudiantes.
+        - Adaptación de Contenidos Educativos: Creación de material didáctico que se adapta a distintos niveles de aprendizaje.
+        - Comunicación Efectiva y Pedagogía: Habilidades en la transmisión de conocimientos técnicos a través de métodos claros y accesibles.
+
+    
 
 # Footer
 footer_show_references: true
