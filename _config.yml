@@ -80,10 +80,10 @@ content:
         additional_links:
           - title:  https://github.com/Fanterlum/Modular_signos/tree/jaime
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/Fanterlum/Modular_signos/tree/jaime
+          - title:  youtube
+            icon: fab fa-youtube
+            url: https://youtube.com/
         quote: >
           Me encargué del diseño de la redes neuronales para el reconocimiento de los patrones de un latido cardiaco y la detección de un paro cardíaco, además del desarrollo del sistema de endpoints y de las comunicaciones entre los servidores e interfaces de usuarios.
         description: | # this will include new lines to allow paragraphs
@@ -94,7 +94,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: administrador de Secundarias 
+        title: Administrador de Secundarias 
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -152,8 +152,8 @@ content:
       - layout: right
         title: Secretaría de Educación Pública
         sub_title: Desarrollador de software
-        caption: Date Range (Noviembre 2023 - Enero 2024)
-        link: Link to company (https://www.gob.mx/sep)
+        caption: (Noviembre 2023 - Enero 2024)
+        link: (https://www.gob.mx/sep)
         quote: >
           La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
           Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
@@ -165,7 +165,7 @@ content:
       - layout: right
         title: Secretaría de Educación Pública
         sub_title: administrativo
-        caption: Date Range (Enero - Septiembre 2024)
+        caption: (Enero - Septiembre 2024)
 #        link: Link to company (optional)
 #        quote: >
 #          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
@@ -179,7 +179,7 @@ content:
       - layout: right
         title: Secretaría de Educación Pública
         sub_title: Profesor
-        caption: Date Range (Mayo - Septiembre 2024)
+        caption: (Mayo - Septiembre 2024)
 #        link: Link to company (optional)
 #        quote: >
 #          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
