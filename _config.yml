@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jaime Alberto Hernandez Robles
 title: ING. EN COMPUTACION
-email: Your email (optional)
+email: jahr.udg@gmail.com
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -20,16 +20,17 @@ darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
+github_username:  JA-HR
+#github_username:  J4HR
+#stackoverflow_username: "00000001"
 #dribbble_username: jekyll
-facebook_username: jekyll
+#facebook_username: jekyll
 #flickr_username: jekyll
-instagram_username: jekyll
+#instagram_username: jekyll
 linkedin_username: jekyll
 #xing_username: jekyll
 #pinterest_username: jekyll
-youtube_username: jekyll
+#youtube_username: jekyll
 #orcid_username: 0000-0000-0000-0000
 #googlescholar_username: D847cGsAAAAJ
 
@@ -74,10 +75,10 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Vital Sings Vision 
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/Fanterlum/Modular_signos/tree/jaime
         link_text: (INDAUTOR 03-2024-092709223000-01)
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  https://github.com/Fanterlum/Modular_signos/tree/jaime
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -151,8 +152,8 @@ content:
       - layout: right
         title: Secretaría de Educación Pública
         sub_title: Desarrollador de software
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        caption: Date Range (Noviembre 2023 - Enero 2024)
+        link: Link to company (https://www.gob.mx/sep)
         quote: >
           La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
           Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
@@ -164,11 +165,11 @@ content:
       - layout: right
         title: Secretaría de Educación Pública
         sub_title: administrativo
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
-          Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
+        caption: Date Range (Enero - Septiembre 2024)
+#        link: Link to company (optional)
+#        quote: >
+#          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
+#          Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
         description: | # this will include new lines to allow paragraphs
           Gestioné de manera eficiente la administración de archivos y datos, asegurando la correcta organización, almacenamiento y recuperación de información en sistemas tanto locales como en la nube.
           Implementé políticas de seguridad y respaldo de datos, garantizando la protección y disponibilidad de la información crítica de la empresa.
@@ -178,11 +179,11 @@ content:
       - layout: right
         title: Secretaría de Educación Pública
         sub_title: Profesor
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
-          Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
+        caption: Date Range (Mayo - Septiembre 2024)
+#        link: Link to company (optional)
+#        quote: >
+#          La Secretaría de Educación Pública (SEP) es una de las diecinueve secretarías de Estado que, junto con la Consejería Jurídica del Ejecutivo Federal, conforman el gabinete legal del presidente de México.
+#          Es la encargada de diseñar, ejecutar y coordinar las políticas públicas en materia de Educación.
         description: | # this will include new lines to allow paragraphs
           He trabajado como profesor de computación, tecnologías y matemáticas básicas en la Secretaría de Educación Pública, impartiendo clases a distintos niveles educativos. Mi enfoque se centra en hacer accesibles y comprensibles temas clave en tecnología y matemáticas, fomentando en los estudiantes habilidades prácticas y pensamiento lógico para que puedan aplicarlos en su vida diaria y futura.
           Esta experiencia docente me ha permitido desarrollar habilidades de comunicación efectiva y métodos de enseñanza adaptativos, logrando que los estudiantes adquieran habilidades esenciales en áreas fundamentales del conocimiento.
