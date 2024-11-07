@@ -101,9 +101,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  youtube
+            icon: fab fa-youtube
+            url: https://youtube.com/
         quote: >
           Diseñe un software personalizado para la gestión administrativa del personal, mejorando la eficiencia operativa en un 60%
         description: | # this will include new lines to allow paragraphs
@@ -120,9 +120,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  youtube
+            icon: fab fa-youtube
+            url: https://youtube.com/
         quote: >
           Supervise el desarrollo del proyecto y aporte sugerencias sobre las tecnologías y lenguajes a usar, mas aparte diseñe el código para reconocimiento facial 
         description: | # this will include new lines to allow paragraphs
@@ -138,9 +138,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  googleColab
+            icon: fab fa-googlescholar
+            url: https://colab.research.google.com/
         quote: >
           Lidere el desarrollo del proyecto y diseñe los algoritmos de cómputo regresivo 
         description: | # this will include new lines to allow paragraphs
