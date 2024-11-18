@@ -83,7 +83,7 @@ content:
             url: https://github.com/Fanterlum/Modular_signos/tree/jaime
           - title:  youtube
             icon: fab fa-youtube
-            url: https://youtube.com/
+            url: https://youtu.be/hQyBj2NGsVM
         quote: >
           Me encargué del diseño de la redes neuronales para el reconocimiento de los patrones de un latido cardiaco y la detección de un paro cardíaco, además del desarrollo del sistema de endpoints y de las comunicaciones entre los servidores e interfaces de usuarios.
         description: | # this will include new lines to allow paragraphs
